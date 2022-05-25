@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olaoluwa Oderinde
 - 👀 I’m interested in DataScience and Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 🌱 I’m currently learning DataScience
+- 💞️ I’m looking to collaborate on DataScience Projects
 - 📫 How to reach me :- olaoluwa.m.oderinde@gmail.com
 
 <!---
