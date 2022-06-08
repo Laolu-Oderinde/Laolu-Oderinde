@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olaoluwa Oderinde
 - 👀 I’m interested in DataScience, HydroSpatial Programming and Machine Learning
-- 🌱 I’m currently learning DataScience & HydroSpatial
+- 🌱 I’m currently learning DataScience & Spatial Programming
 - 💞️ I’m looking to collaborate on DataScience Projects
 - 📫 How to reach me :- olaoluwa.m.oderinde@gmail.com
 
